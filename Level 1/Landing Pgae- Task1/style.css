@@ -1,0 +1,13 @@
+*{
+
+}
+.banner {
+    position: relative;
+    min-height: 100vh;
+    background-image: url("https://img.freepik.com/free-photo/clothing-rack-with-floral-hawaiian-shirts-hangers-hat_23-2149366018.jpg?w=826&t=st=1695840212~exp=1695840812~hmac=70e460fd2a1eee0f2ef3341b77f91759c7d9f1261c638e3b28380ac9dddfdd55") ;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+    padding: 250px 0 200px;
+  }
+  
